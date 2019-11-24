@@ -1,4 +1,4 @@
-./config
+./src/config/congig.ts
 
 # Logs
 logs
